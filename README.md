@@ -1,9 +1,9 @@
 ## ¡Hola! :wave:
 
-:bar_chart: **Ingeniero Industrial explorando el mundo de los datos**
-:briefcase: **Ejecutivo Comercial Senior en Grupo Nutresa**
-:books: **Diplomado en Data Analytics (Excel, Python, R) - Universidad Tecnológica de Pereira**
-:basketball: **Entrenador de baloncesto juvenil**
+-:bar_chart: **Ingeniero Industrial explorando el mundo de los datos**
+-:briefcase: **Ejecutivo Comercial Senior en Grupo Nutresa**
+-:books: **Diplomado en Data Analytics (Excel, Python, R) - Universidad Tecnológica de Pereira**
+-:basketball: **Entrenador de baloncesto juvenil en mis tiempos libres**
 
 ### 🚀 En lo que estoy actualmente
 

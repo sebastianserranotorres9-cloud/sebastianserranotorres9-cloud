@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## ¡Hola! :wave:
 
 :bar_chart: **Ingeniero Industrial explorando el mundo de los datos**

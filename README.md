@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**sebastianserranotorres9-cloud/sebastianserranotorres9-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola! :wave:
 
-Here are some ideas to get you started:
+:bar_chart: **Ingeniero Industrial explorando el mundo de los datos**
+:briefcase: **Ejecutivo Comercial Senior en Grupo Nutresa**
+:books: **Diplomado en Data Analytics (Excel, Python, R) - Universidad Tecnológica de Pereira**
+:basketball: **Entrenador de baloncesto juvenil**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 En lo que estoy actualmente
+
+- 📊 Profundizando en análisis de datos con **Python**, **R** y **Power BI**
+- 🔧 Aprendiendo control de versiones con **Git** y **GitHub**
+- 📈 Aplicando estadística (cuartiles, probabilidad, teorema de Bayes) a casos reales
+- 💡 Explorando **SQL** como complemento a mi stack de análisis
+- 🤖 Certificado en el **McKinsey Forward Program**
+
+### 🛠️ Stack y herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📈 Actividad
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sebastianserranotorres9-cloud/sebastianserranotorres9-cloud?style=for-the-badge)
+
+### Vías de contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-serrano-torres-541372303)
+

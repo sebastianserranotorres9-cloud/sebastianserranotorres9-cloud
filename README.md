@@ -25,6 +25,11 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sebastianserranotorres9-cloud/sebastianserranotorres9-cloud?style=for-the-badge)
 
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Vías de contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-serrano-torres-541372303)
